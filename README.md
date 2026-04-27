@@ -41,3 +41,7 @@ Future updates may improve persona strategy, teaching mode, watch-mode persona m
 ## Created by
 
 Created by **Donna Angelle / shroomshaolin** for the SapphireAI plugin ecosystem.
+
+## Screenshot
+
+![The Peg & Pint screenshot](docs/screenshot.png)
