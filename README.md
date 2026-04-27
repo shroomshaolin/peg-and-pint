@@ -1,4 +1,4 @@
-# The Peg & Pint 🍺 v0.2.1
+# The Peg & Pint 🍺 v0.2.2
 
 Warm banter. Sharp cribbage. A proper table.
 
