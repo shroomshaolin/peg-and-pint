@@ -1,0 +1,20 @@
+{
+  "name": "peg-and-pint",
+  "display_name": "The Peg & Pint \ud83c\udf7a",
+  "version": "0.2.1",
+  "description": "Warm banter. Sharp cribbage. A proper table.",
+  "author": "Donna",
+  "capabilities": {
+    "app": {
+      "icon": "\ud83c\udf7a"
+    },
+    "routes": [
+      {
+        "method": "POST",
+        "path": "banter",
+        "handler": "routes/app_api.py:handle_post_banter"
+      }
+    ]
+  },
+  "icon": "\ud83c\udf7a"
+}
