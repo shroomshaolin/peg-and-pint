@@ -45,3 +45,9 @@ Future updates may improve persona strategy, teaching mode, watch-mode persona m
 ## Created by
 
 Created by **shroomshaolin** for the SapphireAI plugin ecosystem.
+
+---
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
