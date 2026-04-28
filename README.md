@@ -11,10 +11,6 @@
 
 Warm banter. Sharp cribbage. A proper table.
 
-## Screenshot
-
-![The Peg & Pint screenshot](docs/screenshot.png)
-
 This is the first public release of **The Peg & Pint**, a cozy tavern-style cribbage plugin for SapphireAI.
 
 The Peg & Pint brings a playable cribbage table into Sapphire with a warm pub atmosphere, persona table energy, guarded voice/sound hooks, and an early but working cribbage game flow.
