@@ -1,5 +1,14 @@
 # The Peg & Pint 🍺 v0.2.2
 
+<!-- screenshot:start -->
+
+<p align="center">
+  <img src="docs/screenshot.png" alt="Peg & Pint screenshot" width="900">
+</p>
+
+<!-- screenshot:end -->
+
+
 Warm banter. Sharp cribbage. A proper table.
 
 ## Screenshot
